@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "lib": ["DOM", "ESNext"],
+        "target": "es5",
+        "typeRoots": ["node_modules/@types"],
+        "moduleResolution": "node",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "allowSyntheticDefaultImports": true,
+        "declaration": false,
+        "sourceMap": true
+    },
+    "exclude": ["node_modules"]
+}
